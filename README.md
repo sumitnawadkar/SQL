@@ -1,4 +1,4 @@
-# SQL
+# Hospital Mortality Prediction
 
 Key Features:
 
