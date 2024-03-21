@@ -21,3 +21,14 @@ Use Case: Ideal for hospitality analytics, customer experience enhancement, and 
 Size: The dataset's scale enables in-depth exploration, statistical analysis, and potential machine learning applications.
 
 This dataset reflects my experience in data cleaning, exploratory data analysis, feature engineering and my ability to derive actionable insights to enhance operational efficiency and customer satisfaction within the hospitality sector.
+
+
+# Netflix_data
+# Coclusion
+
+By exploring various aspects of the dataset, a comprehensive understanding of Netflix's content landscape was gained. The analysis revealed the top 10 and bottom 10 movies and shows based on their IMDB scores, which highlighted the titles that garnered high praise and those that received lower ratings. This information can assist viewers in making informed choices and highlight areas for potential improvement in content quality. The examination of movies and shows distributed across different decades showed significant shifts in content availability over time. Notably, the dataset showcased a substantial increase in offerings from the 2000s onwards, emphasizing Netflix's commitment to featuring newer content that resonates with current trends and audience preferences.
+
+Age certifications played a crucial role in the dataset, impacting both the average IMDB scores and the distribution of movies and shows. The analysis revealed audience preferences for specific age certifications, with TV-14 garnering the highest average score, suggesting its high popularity among viewers. Furthermore, the different age certifications also showed the diverse range of content available on Netflix. Finally, the exploration of the most common genres in Netflix's library provided insights into viewer preferences and content distribution. Comedy emerged as the dominant genre across both movies and shows, followed by documentation and drama. Combinations of genres were also frequent, highlighting the audience's appreciation for multi-genre content.
+
+
+
